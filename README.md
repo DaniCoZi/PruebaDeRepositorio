@@ -1,5 +1,6 @@
 # PruebaDeRepositorio
 Para practicar
 
-Se adiciona mas informacion por la seccion A
-No se que mas inventar
+
+De la seccion B se puede ver esto
+Pero no entiendo, osea que no se ven las demas opciones estando en una seccion propia?
